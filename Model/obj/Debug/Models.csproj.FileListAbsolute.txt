@@ -1,0 +1,12 @@
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\Models.dll.config
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\Models.dll
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\Models.pdb
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\EntityFramework.dll
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\EntityFramework.xml
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\obj\Debug\Models.csproj.CopyComplete
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\obj\Debug\Models.dll
+C:\Users\Aron\Source\Repos\DinHatt-Team3-VT22\Model\obj\Debug\Models.pdb
